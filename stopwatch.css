@@ -1,0 +1,57 @@
+#main {
+    width: 400px;
+    height: 200px;
+    border: double;
+    border-radius: 3px;
+    margin: 130px;
+    padding: 40px;
+    background: aqua
+}
+
+#header {
+    text-align: center;
+    border: double;
+    margin: 10px;
+    padding: 5px;
+    font-size: 35px;
+    background: skyblue;
+}
+
+#second {
+    border: double;
+    width: 350px;
+    height: 45px;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    background: brown;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    margin: 2px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: yellow;
+}
+
+#stpwth {
+    text-align: center;
+    border: double;
+    font-size: 50px;
+    background: azure
+}
+
+#open {
+    font-size: 30px;
+    text-align: center;
+    border: double;
+    padding: 20px;
+    margin: 30px;
+    width: 300;
+    height: 30;
+    background: yellow;
+}
